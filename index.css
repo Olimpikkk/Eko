@@ -19,14 +19,12 @@ height: 100%;
 }
 
 body {
-background-color: #F2F2F2;
 position: relative;
 height: 100%;
 line-height: 1;
 font-size: 18px;
-font-family: 'Open Sans';
+font-family: "Roboto";
 font-weight: 400;
-color: #596B86;
 }
 
 a {
@@ -104,7 +102,7 @@ margin-left: 482px;
 margin-right: 64px;
 }
 .menu__link {
-font-family: Roboto;
+font-family: "Roboto";
 font-size: 19px;
 font-weight: 400;
 line-height: 24px;
@@ -120,7 +118,7 @@ margin-left: 295px;
 margin-right: 42px;
 }
 .header__button--link{
-font-family: Roboto;
+font-family: "Roboto";
 font-size: 14px;
 font-weight: 400;
 line-height: 19.2px;
@@ -137,7 +135,7 @@ color: #F8F4EB;
 margin-left: 74px;
 }
 .first-block__title {
-font-family: Roboto;
+font-family: "Roboto";
 font-size: 71px;
 font-weight: 400;
 line-height: 72px;
@@ -148,7 +146,7 @@ margin-top: 528px;
 margin-bottom: 12px;
 }
 .first-block__subtitle {
-font-family: Roboto;
+font-family: "Roboto";
 font-size: 24px;
 font-weight: 400;
 line-height: 32px;
@@ -174,7 +172,7 @@ justify-content:center;
 margin-right: 8px;
 }
 .btn-first__text {
-font-family: Roboto;
+font-family: "Roboto";
 font-size: 16px;
 font-weight: 400;
 line-height: 19.2px;
@@ -200,7 +198,7 @@ margin-left: 74px;
 margin-top: 182px;
 }
 .second-block__title {
-font-family: Roboto;
+font-family: "Roboto";
 font-size: 55px;
 font-weight: 400;
 line-height: 50.4px;
@@ -210,7 +208,7 @@ color: #4E260D;
 margin-bottom: 41px;
 }
 .second-block__subtitle {
-font-family: Roboto;
+font-family: "Roboto";
 font-size: 20px;
 font-weight: 400;
 line-height: 27px;
@@ -220,7 +218,7 @@ color: #4E260D;
 margin-bottom: 22px;
 }
 .second-block__li{
-font-family: Roboto;
+font-family: "Roboto";
 font-size: 18px;
 font-weight: 400;
 line-height: 27px;
@@ -242,7 +240,7 @@ align-items: center;
 justify-content: center;
 }
 .btn-second__text{
-font-family: Roboto;
+font-family: "Roboto";
 font-size: 14px;
 font-weight: 400;
 line-height: 19.2px;
@@ -272,7 +270,7 @@ margin-left: 690px;
 }
 .third-block__title {
 width: 358px;
-font-family: Roboto;
+font-family: "Roboto";
 font-size: 56px;
 font-weight: 400;
 line-height: 50.4px;
@@ -284,7 +282,7 @@ margin-right: 152px;
 }
 .third-block__subtitle {
 width: 433px;
-font-family: Roboto;
+font-family: "Roboto";
 font-size: 17px;
 font-weight: 400;
 line-height: 27px;
@@ -310,7 +308,7 @@ margin-bottom: 233px;
 cursor: pointer;
 }
 .btn-third__text{
-font-family: Roboto;
+font-family: "Roboto";
 font-size: 14px;
 font-weight: 400;
 line-height: 19.2px;
@@ -330,7 +328,7 @@ width: 100%;
 }
 .fourth-block__title {
 z-index: 10;
-font-family: Roboto;
+font-family: "Roboto";
 font-size: 55px;
 font-weight: 400;
 line-height: 50.4px;
@@ -349,7 +347,7 @@ margin-left: 203px;
 }
 .fourth-block__subtitle {
 width: 500px;
-font-family: Roboto;
+font-family: "Roboto";
 font-size: 20px;
 font-weight: 400;
 line-height: 27px;
@@ -378,7 +376,7 @@ margin-top: 35px;
 margin-bottom: 442px;
 }
 .btn-fourth__text{
-font-family: Roboto;
+font-family: "Roboto";
 font-size: 14px;
 font-weight: 400;
 line-height: 19.2px;
@@ -404,7 +402,7 @@ align-items: center;
 z-index: 10;
 }
 .fives-block__title {
-font-family: Roboto;
+font-family: "Roboto";
 font-size: 70px;
 font-weight: 400;
 line-height: 72px;
@@ -415,7 +413,7 @@ margin-bottom: 20px;
 }
 
 .fives-block__subtitle {
-font-family: Roboto;
+font-family: "Roboto";
 font-size: 24px;
 font-weight: 400;
 line-height: 32.4px;
@@ -442,7 +440,7 @@ background: #00945E;
 margin-bottom: 208px;
 }
 .btn-fives__text{
-font-family: Roboto;
+font-family: "Roboto";
 font-size: 17px;
 font-weight: 400;
 line-height: 27px;
@@ -460,7 +458,7 @@ padding-top: 44px;
 }
 .sixth-block__title {
 margin-left: 74px;
-font-family: Roboto;
+font-family: "Roboto";
 font-size: 54px;
 font-weight: 400;
 line-height: 56px;
@@ -494,7 +492,7 @@ gap: 0px;
 }
 .sixth-block__subtitle {
 color: #20493E;
-font-family: Roboto;
+font-family: "Roboto";
 font-size: 11px;
 font-weight: 400;
 line-height: 16.8px;
@@ -511,7 +509,7 @@ background: #20493E;
 display: flex;
 }
 .seventh-block__li{
-font-family: Roboto;
+font-family: "Roboto";
 font-size: 23px;
 font-weight: 400;
 line-height: 28.8px;
@@ -531,7 +529,7 @@ text-decoration: none;
 color: #F8F4EB;
 }
 .seventh-block__li--color{
-font-family: Roboto;
+font-family: "Roboto";
 font-size: 13px;
 font-weight: 400;
 line-height: 16.8px;
@@ -574,7 +572,7 @@ margin-left: 74px;
 margin-bottom: 19px;
 }
 .footer__col {
-font-family: Roboto;
+font-family: "Roboto";
 font-size: 9px;
 font-weight: 400;
 line-height: 14.4px;
@@ -590,7 +588,7 @@ color: #F8F4EB;
 margin-right: 0px;
 }
 .footer__text {
-font-family: Roboto;
+font-family: "Roboto";
 font-size: 10px;
 font-weight: 400;
 line-height: 14.4px;
