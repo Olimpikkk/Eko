@@ -129,7 +129,9 @@ text-align: left;
 color: #F8F4EB;
 }
 /* ----------PAGE-------- */
+@font-face{
 
+}
 /* -----------FIRST-BLOCK------- */
 .first-block {
 margin-left: 74px;
